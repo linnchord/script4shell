@@ -1,4 +1,4 @@
-#This is a macport php5.3.6 setup script for php-fpm on macosx 10.6.7.
+#This is a macport php5.3.6 setup profile for php-fpm on macosx 10.6.7.
 #  Run selfupdate
 #	sudo port upgrade outdated && sudo port uninstall inactive
 #  Replace this in 
